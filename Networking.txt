@@ -1,2 +1,10 @@
 => ip a
   - to get all ip addresses on machine
+  
+=> ufw status
+  - to check status of firewall
+=> ufw enable
+  - to enable firewall
+=> ufw allow ssh
+  - to allow ssh to connect
+
