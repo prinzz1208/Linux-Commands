@@ -8,3 +8,5 @@
 => ufw allow ssh
   - to allow ssh to connect
 
+=> ssh-keygen
+  - to generate ssh keys 
